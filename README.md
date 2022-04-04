@@ -3,7 +3,7 @@ A compilation of data visualization graphs created using R and Adobe Illustrator
 These data are some fun and interesting data sets that I found online and I really wanted to put some fun into making these! 
 Please enjoy!
 
-[ex4_Lin (1).pdf](https://github.com/alin316/Data-Visualization-/files/8411370/ex4_Lin.1.pdf)
+
 
 ![Screen Shot 2022-04-04 at 12 17 50 PM](https://user-images.githubusercontent.com/98330114/161587695-f003b50c-3723-4aa9-8374-db2131c46f33.png)
 
